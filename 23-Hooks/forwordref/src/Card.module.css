@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    width: 100%;
+    height: 180px;
+}
+.card {
+    width: 250px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 2px #ddd;
+}
+.info {
+    margin-top: 1px;
+    height: 150px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info,p {
+    font-size: 19px;
+    font-weight: 600;
+}
+.container {
+    margin-top: 30px;
+    margin-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 15px;
+    row-gap: 30px;
+}

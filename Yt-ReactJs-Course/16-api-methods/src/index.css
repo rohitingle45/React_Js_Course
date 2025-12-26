@@ -1,0 +1,93 @@
+/* @import "tailwindcss"; */
+/*
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    display: flex;
+    gap: 280px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+li {
+    list-style: none;
+    font-size: 23px;
+    padding: 8px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+center h1 {
+    font-size: 45px;
+}
+
+input {
+    padding: 8px 18px ;
+}
+
+input::placeholder {
+    font-size: 18px;
+}
+button {
+    background-color: royalblue;
+    padding: 8px 12px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.delete-btn {
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 17px;
+    background-color: crimson;
+}
+
+.edit-btn {
+     font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 17px;
+    background-color: orange;
+}
+*/
+
+.link {
+  text-decoration: none;
+  color: blue;
+  margin-right: 20px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.delete-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.edit-btn {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

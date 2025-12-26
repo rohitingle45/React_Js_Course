@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Rohit", "age":23, "city": "Akola" },
+    { "id": 2, "name": "Divya","age":22, "city": "Dhule" },
+    { "id": 3, "name": "Yogesh","age":20, "city": "Akola" }
+  ]
+}

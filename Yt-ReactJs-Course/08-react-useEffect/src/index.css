@@ -1,0 +1,19 @@
+/* @import "tailwindcss"; */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+button {
+     padding: 10px 30px;
+     margin: 10px;
+     background-color: lightskyblue;
+     border-radius: 8px;
+     font-size: 15px;
+     font-weight: 600;
+}
